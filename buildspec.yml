@@ -6,3 +6,5 @@ phases:
     commands:
     - pip3 install cfn-lint
     - cfn-lint template.yml
+artifacts:
+  files: "**/*"
