@@ -1,0 +1,3 @@
+Resources:
+  TestEip1:
+    Type: AWS::EC2::EIP
